@@ -1,0 +1,20 @@
+.star-rating {
+  position: relative;
+  vertical-align: middle;
+  display: inline-block;
+  overflow: hidden;
+  // line-height: 15px;
+}
+.front-stars {
+  position: absolute;
+  left: 0;
+  top: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  color: #ffbc0b;
+}
+
+.back-stars {
+  color: #bdbdbd;
+}
+

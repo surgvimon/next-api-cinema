@@ -1,0 +1,33 @@
+
+.movie-body .movie-overview .rating  {
+    margin-bottom: 72px;
+}
+
+.ant-tabs .ant-tabs-tab {
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.88);
+}
+
+ .ant-tabs-ink-bar {
+    border-bottom: 2px solid #ffbc0b;
+}
+
+.ant-tabs-tab:hover,
+.ant-tabs-tab-active,
+.ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+    color: #ffbc0b !important; 
+}
+
+.media-title,
+.cast .div-title,
+.overview-column-1 .cast .div-title,
+.movie-reviews .div-title {
+    color:#233a50;
+    font-size: 21px;
+}
+
+.overview-column-2 .overview-detail h6 {
+    color:#233a50;
+    font-size: 18px;
+
+}
